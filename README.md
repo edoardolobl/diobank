@@ -9,6 +9,9 @@ O **DIOBankSystem** é um projeto desenvolvido como parte do desafio "Criando um
 - **Depositar:** Permite ao usuário adicionar fundos à sua conta.
 - **Sacar:** Permite ao usuário retirar fundos da conta, respeitando o limite de três saques diários e o máximo de R$ 500 por saque.
 - **Extrato:** Mostra um extrato detalhado de todas as transações realizadas, incluindo depósitos e saques, com a data e o horário de cada operação.
+- **Criar Usuário:** Permite ao sistema registrar um novo usuário com informações como nome, data de nascimento, CPF e endereço.
+- **Criar Conta Corrente:** Permite criar uma conta corrente vinculada a um usuário existente, com número de conta sequencial.
+- **Listar ou Buscar Contas:** Permite visualizar todas as contas cadastradas ou buscar contas específicas por nome do cliente ou CPF.
 
 ## Tecnologias Utilizadas
 
